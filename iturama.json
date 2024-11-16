@@ -1,0 +1,32 @@
+[
+    {
+        "categoria": "Farmácia / Drogaria",
+        "nome": "Farmácia Pague Menos",
+        "detalhes": "teste"
+    },
+    {
+        "categoria": 1,
+        "nome": "Item 1",
+        "detalhes": "$1"
+    },
+    {
+        "categoria": 2,
+        "nome": "Item 2",
+        "detalhes": "$2"
+    },
+    {
+        "categoria": 3,
+        "nome": "Item 3",
+        "detalhes": "$3"
+    },
+    {
+        "categoria": 4,
+        "nome": "Item 4",
+        "detalhes": "$4"
+    },
+    {
+        "categoria": 5,
+        "nome": "Item 5",
+        "detalhes": "$5"
+    }
+]
